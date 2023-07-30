@@ -15,9 +15,9 @@ Basic Workflow:
 
 
 Basic I/O Details:
-Input:
-User-provided search queries (book title, author, ISBN, etc.).
-Output:
-Downloaded .pdf or .epub files saved to a specified folder on the user's machine.
+-Input: User-provided search queries (book title, author, ISBN, etc.).
+- Output: Downloaded .pdf or .epub files saved to a specified folder on the user's machine.
+
+
 Status updates and progress information displayed to the user.
 
